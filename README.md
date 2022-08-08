@@ -1,4 +1,4 @@
-# Trabalho-Final-Sistemas-Distribuidos
+# Trabalho final de Sistemas Distribuidos
 
 - Este trabalho tem como objetivo apresentar uma API Rest com base nos dados trazidos pelo MockService. Inspiração no curso na udemy -> https://www.udemy.com/course/implementando-sistemas-distribuidos/
 
